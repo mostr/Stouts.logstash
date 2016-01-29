@@ -1,6 +1,8 @@
 Stouts.logstash
 ==============
 
+## This fork fixes creating logstash patterns files with new ansible syntax for dicts
+
 [![Build Status](http://img.shields.io/travis/Stouts/Stouts.logstash.svg?style=flat-square)](https://travis-ci.org/Stouts/Stouts.logstash)
 [![Galaxy](http://img.shields.io/badge/galaxy-Stouts.logstash-blue.svg?style=flat-square)](https://galaxy.ansible.com/list#/roles/1995)
 
